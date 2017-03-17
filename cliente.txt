@@ -1,0 +1,7 @@
+Joao Batista;106 norte;Palmas
+Leila Lopes;605 sul;Palmas
+Ana Clara;408 sul;Palmas
+Rodrigo Alves;Av JK;Palmas
+Ana Julia;203 norte;Palmas
+Bruno Sousa;Av Teotonio Segurado;Palmas
+Jose Antonio;Av JK;Palmas
